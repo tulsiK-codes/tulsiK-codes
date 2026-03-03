@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tulsiK-codes
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend web development with html,css and js
+- 🌱 I’m currently learning to create websites using html,css,js(local storage, apis)
 - 🌱 I'm learning from Hitesh Choudhary on Udemy
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
